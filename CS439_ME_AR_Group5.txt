@@ -1,15 +1,20 @@
 Libraries Used:
-- 
+- pandas
+- numpy
+- matplotlib
+- sklearn
 
 Modules Used:
-- 
+- pyplot
+- linear_model
 
 
 Division of Labor:
 
  
 Daniel
-- 
+- Build a Multiple Linear Regression Model
+- Calculate Adjusted R^2
 
 Milan
 - 
