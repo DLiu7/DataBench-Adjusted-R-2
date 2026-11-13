@@ -17,7 +17,9 @@ Daniel
 - Calculate Adjusted R^2
 
 Milan
-- 
+- Calculate Adjusted R^2 After Removing Each Feature
+- Rank Features by Importance 
 
 Alban
-- 
+- Select the Model with the Highest Adjusted R^2
+- Plot Adjusted R^2 Against Number of Features
